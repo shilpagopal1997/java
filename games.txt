@@ -1,3 +1,6 @@
 kabbad
 football
 baseball
+garden
+bus
+car
