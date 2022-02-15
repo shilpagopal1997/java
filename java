@@ -1,2 +1,4 @@
 code
 project
+python
+anakonda
