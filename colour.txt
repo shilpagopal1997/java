@@ -4,3 +4,5 @@ black
 blue 
 pnk
 white
+violet
+pink
