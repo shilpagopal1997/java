@@ -4,3 +4,5 @@ python
 anakonda
 snake
 rose
+flower
+rat
