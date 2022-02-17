@@ -6,3 +6,4 @@ pnk
 white
 violet
 pink
+black
