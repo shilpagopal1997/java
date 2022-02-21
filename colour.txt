@@ -5,9 +5,6 @@ blue
 pnk
 white
 violet
-pink
-<<<<<<< HEAD
+pin
 blackk
-=======
-black
->>>>>>> 396a37418898401afd19e8c62bc6c225e4ceb614
+yellow
